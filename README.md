@@ -97,6 +97,9 @@ Now, you need to produce a time series model that analyzes and forecasts pattern
 ## Visuals
 
 ## Installation
+This challenge requires the .pip install of [prophet](https://facebook.github.io/prophet/).
+
+Additionaly is recommended to run using [Google Colab](https://colab.research.google.com/) to avoid local installation issues.
 
 ## Usage
 This assigment highlights the usage of Pandas, lambda, groupby, and apply functions for analyzing sales information for an e-commerce company.
@@ -109,14 +112,18 @@ Some of the code on this assigment was done with the help of a bootcamp tutor.
 ## Contributing
 
 ## Authors and acknowledgment
-1. Code generated with the assistance of Lebuso Philly
- (@Bootcamp Tutor)
-2. Reference material - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
-3. Python HOWTOs - [https://docs.python.org/3/howto](https://docs.python.org/3/howto/index.html)
-4. This site was built using [GitHub Pages](https://pages.github.com/).
+1. Reference material - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
+2. Python HOWTOs - [https://docs.python.org/3/howto](https://docs.python.org/3/howto/index.html)
+3. This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## License
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Project status
 - Submitted for grading (05.09.2024)
