@@ -32,11 +32,11 @@ The data science manager asks if the Google search traffic for the company links
 
 To do so, complete the following steps:
 
-    1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, MercadoLibre released its quarterly financial results.) Visualize the results. Do any unusual patterns exist?
+1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, MercadoLibre released its quarterly financial results.) Visualize the results. Do any unusual patterns exist?
 
-    2. Calculate the total search traffic for the month, and then compare the value to the monthly median across all months.
+2. Calculate the total search traffic for the month, and then compare the value to the monthly median across all months.
 
-    3. Did the Google search traffic increase during the month that MercadoLibre released its financial results? Write your answer in the space provided in the starter file.
+3. Did the Google search traffic increase during the month that MercadoLibre released its financial results? Write your answer in the space provided in the starter file.
 
 ### Step 2: Mine the Search Traffic Data for Seasonality
 
